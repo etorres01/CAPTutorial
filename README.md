@@ -1,2 +1,2 @@
 # CAPTutorial
-CAP Tutorial Repository
+CAP Tutorial to use a GitHub Repository
